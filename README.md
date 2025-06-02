@@ -1,6 +1,6 @@
 # Minecraft Tangut Language Pack
 
-This project provides a Tangut language translation for Minecraft, allowing players to experience the game's interface and in-game text rendered in the historical Tangut script.
+This project provides a crude Tangut language translation for Minecraft, allowing players to experience the game's interface and in-game text rendered in the historical Tangut script.
 
 ## Table of Contents
 
@@ -15,6 +15,10 @@ This project provides a Tangut language translation for Minecraft, allowing play
 ## About This Pack
 
 This language pack is an ambitious endeavor to bring the fascinating Tangut script into the world of Minecraft. It aims to replace the default Chinese localization with its Tangut equivalent, character by character, providing a unique historical and linguistic immersion for players.
+
+![Main Menu](Screenshots/Screenshot1.png)
+![Language Selection](Screenshots/Screenshot0.png)
+![In game items/inventory](Screenshots/Screenshot2.png)
 
 ## Features
 
