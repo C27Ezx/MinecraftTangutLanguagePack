@@ -1,0 +1,13 @@
+{
+   "pack": {
+      "pack_format": 13,
+      "description": "Tangut Language Pack for Minecraft with Tangut Yinchuan font"
+   },
+   "language": {
+      "tn_gt": {
+         "name": "Tangut",
+         "region": "𘚜𗳉",
+         "bidirectional": false
+      }
+   }
+}
